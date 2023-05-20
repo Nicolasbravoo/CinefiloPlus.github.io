@@ -85,9 +85,25 @@ aside {
     border-bottom:5px solid rgba(37, 37, 37, 0.449); 
     border-radius: 10px;
 }
-@media (max-width: 800px){
+@media (max-width: 900px){
+    
     aside{
         display: none;
+    }
+    section{
+        margin-left: 20px;
+        margin-right: 20px;
+        width: 98%;
+        
+        
+    }
+    article{
+       width: 0.7vw;
+        
+    }
+    .FotoPortada{
+        width:600px;
+
     }
 }
 
@@ -126,7 +142,7 @@ article p{
 
 .FotoPortada {
     width: 100%;
-    
+    height: 100%;
     justify-content: center;
     
 }
