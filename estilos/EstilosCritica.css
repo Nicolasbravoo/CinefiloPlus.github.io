@@ -133,7 +133,7 @@ article p{
 .ContenedorImg {
     margin-left: 3%;
     width: 700px;
-    background-color: aqua;
+    background-color: rgb(67, 1, 42);
     justify-content: center;
     display: flex;
 }
@@ -157,7 +157,7 @@ article p{
     margin: 0;
     padding: 0;
     display:flex;
-    margin-right: 150px;
+    
     justify-content: center;
     background:linear-gradient( rgba(78, 0, 46, 0.228),20px,rgba(0, 0, 0, 0));
     
@@ -209,4 +209,17 @@ article p{
     justify-content: center;
     
 
+}
+
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+
+h2 {
+    color: coral;
+    
+    
 }
